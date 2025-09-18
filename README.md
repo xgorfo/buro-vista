@@ -1,1 +1,1 @@
-# burr-vista
+# buro-vista
